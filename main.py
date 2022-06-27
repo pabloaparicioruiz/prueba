@@ -16,6 +16,9 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # Nuevo código de Alicia
-for i in [0,1,2,3,4]:
+for i in [0, 1, 2, 3, 4]:
     print(i)
-print('cambio')
+print('change')
+print('change2')
+
+#Escribir un commit message
