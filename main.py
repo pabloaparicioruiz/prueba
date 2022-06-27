@@ -14,3 +14,8 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+# Nuevo código de Alicia
+
+for i in [0,1,2,3,4]:
+    print(i)
